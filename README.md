@@ -7,7 +7,7 @@ Olá a todos, neste repositório encontraremos todo material referente as nossas
 ### 1. Conceito inicial, Variáveis e tipos primitivos (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/2021-08-14)
 - [X] Lógica e suas estruturas de dados
 - [X]  Variáveis e tipos de dados 
-- [X]  Leitura de Vaiáveis
+- [X]  Leitura de Variáveis
 - [X]  Atribuição de valores e operações com variáveis
 - [X]  Mensagens de retorno utilizando variáveis
 - [X]  Exercícios aplicados com variáveis em algoritmos
