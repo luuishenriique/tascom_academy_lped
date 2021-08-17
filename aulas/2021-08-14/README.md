@@ -155,6 +155,8 @@ fimalgoritmo
  - Criar um algoritmo que retorne o resultado de todas as operações, lendo duas varíaveis que receberão dois valores numéricos.
  - Um algoritmo que calcule o IMC (Índice de massa corporal), recebendo o seguintes valores para leitura: peso e altura. Dica: Para calucar o IMC, use a seguinte expressão -> IMC = peso / (altura*altura)
 - Um algoritmo que encontre a velocidade média de um veículo recebendo os seguintes dados: distância e tempo gasto. Dica: Para calucar a velocidade média, use a seguinte expressão -> Velocidade Média = distância / tempo.
+ 
+ ## Todos os exemplos utilizados dentro de sala de aula se encontram no diretório exemplos (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/2021-08-14/exemplos)
 
 
 
