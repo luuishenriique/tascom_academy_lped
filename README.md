@@ -4,13 +4,13 @@ Olá a todos, neste repositório encontraremos todo material referente as nossas
 
 ## O que vamos ver?
 
-### 1. Conceito inicial, Variáveis e tipos primitivos
-- [ ] Lógica e suas estruturas de dados
-- [ ]  Variáveis e tipos de dados 
-- [ ]  Leitura de Vaiáveis
-- [ ]  Atribuição de valores e operações com variáveis
-- [ ]  Mensagens de retorno utilizando variáveis
-- [ ]  Exercícios aplicados com variáveis em algoritmos
+### 1. Conceito inicial, Variáveis e tipos primitivos (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/2021-08-14)
+- [X] Lógica e suas estruturas de dados
+- [X]  Variáveis e tipos de dados 
+- [X]  Leitura de Vaiáveis
+- [X]  Atribuição de valores e operações com variáveis
+- [X]  Mensagens de retorno utilizando variáveis
+- [X]  Exercícios aplicados com variáveis em algoritmos
 
 ### 2. Estruturas de Controle
 - [ ]  Algoritmos de escolha (Uso do escolha e seus casos)
