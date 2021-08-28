@@ -12,10 +12,10 @@ Olá a todos, neste repositório encontraremos todo material referente as nossas
 - [X]  Mensagens de retorno utilizando variáveis
 - [X]  Exercícios aplicados com variáveis em algoritmos
 
-### 2. Estruturas de Controle
-- [ ]  Algoritmos de escolha (Uso do escolha e seus casos)
-- [ ]  Algoritmos condicionais (Uso do se, senao se e operadores lógicos)
-- [ ]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
+### 2. Estruturas de Controle (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/2021-08-21)
+- [X]  Algoritmos de escolha (Uso do escolha e seus casos)
+- [X]  Algoritmos condicionais (Uso do se, senao se e operadores lógicos)
+- [X]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
 
 ### 3. Estruturas de Repetição
 - [ ] Conceito de estutura de repetição
