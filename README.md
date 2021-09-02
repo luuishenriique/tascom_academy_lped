@@ -17,13 +17,12 @@ Olá a todos, neste repositório encontraremos todo material referente as nossas
 - [X]  Algoritmos condicionais (Uso do se, senao se e operadores lógicos)
 - [X]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
 
-### 3. Estruturas de Repetição
-- [ ] Conceito de estutura de repetição
-- [ ]  Algoritmos de repetição (Uso do para... faca)
-- [ ]  Algoritmos de repetição (Uso do repita... ate)
-- [ ]  Algoritmos de repetição (Uso do enquanto... faca)
-- [ ]  Modificadores de estado
-- [ ]  Exercícios aplicados a estrutura de repetição
+### 3. Estruturas de Repetição (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/2021-08-28)
+- [X] Conceito de estutura de repetição
+- [X]  Algoritmos de repetição (Uso do para... faca)
+- [X]  Algoritmos de repetição (Uso do enquanto... faca)
+- [X]  Modificadores de estado
+- [X]  Exercícios aplicados a estrutura de repetição
 
 ### 4. Vetores e Matrizes
 - [ ]  Conceito de Vetores e Matrizes
