@@ -24,11 +24,11 @@ Olá a todos, neste repositório encontraremos todo material referente as nossas
 - [X]  Modificadores de estado
 - [X]  Exercícios aplicados a estrutura de repetição
 
-### 4. Vetores e Matrizes
-- [ ]  Conceito de Vetores e Matrizes
-- [ ]  Armazenamento, posição e leitura de dados de vetores e matrizes
-- [ ]  Aplicação de uso de vetores e matrizes
-- [ ]  Exercícios aplicados a Vetores e Matrizes
+### 4. Vetores e Matrizes (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/2021-09-04)
+- [X]  Conceito de Vetores e Matrizes
+- [X]  Armazenamento, posição e leitura de dados de vetores e matrizes
+- [X]  Aplicação de uso de vetores e matrizes
+- [X]  Exercícios aplicados a Vetores e Matrizes
 
 *A medida que nossos encontros forem acontecendo, será atualizado em cada item com o material correspondente.*
 
