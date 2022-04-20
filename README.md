@@ -1,10 +1,16 @@
-<div align="center"><h1> 🖱️  Lógica de Programação e Estrutura de dados (LPED) 🖥️</> </div> 
+<div align="center"><h1> 🖱️  Lógica de Programação e Estrutura de dados (LPED) 🖥️</> </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
+</div>
 
 Olá a todos 😄, neste repositório encontraremos todo material referente as nossas conversas durante a cadeira de Lógica de programação com exemplos, exercícios e dicas que podem contribuir para reforço dos conteúdos que estaremos trabalhando. 😊
 
 ---
 ## 🤔 O que vamos ver? 
-> ### 1. 💻 VisualG  (Pseudolinguagem de interpretação e execução de algoritmos) 
+
+### 1. 💻 VisualG  (Pseudolinguagem de interpretação e execução de algoritmos) 
+
 ### 1.1 Conceito inicial, Variáveis e tipos primitivos 
 - [ ] Lógica e suas estruturas de dados
 - [ ]  Variáveis e tipos de dados 
@@ -30,11 +36,9 @@ Olá a todos 😄, neste repositório encontraremos todo material referente as n
 - [ ]  Armazenamento, posição e leitura de dados de vetores e matrizes
 - [ ]  Aplicação de uso de vetores e matrizes
 - [ ]  Exercícios aplicados a Vetores e Matrizes
----
-> ### 2. <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
-  </a> (Linguagem real de interpretação e execução de algoritmos) 
 
+### 2. 💻 Javascript (Linguagem real de interpretação e execução de algoritmos)
+    
 ### 2.1 Variáveis, tipos primitivos e estruturas de Controle
 - [ ]  Variáveis e tipos de dados 
 - [ ]  Leitura de Variáveis
