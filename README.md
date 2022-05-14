@@ -9,15 +9,15 @@ Olá a todos 😄, neste repositório encontraremos todo material referente as n
 ---
 ## 🤔 O que vamos ver? 
 
-### 1. 💻 VisualG  (Pseudolinguagem de interpretação e execução de algoritmos) 
+### 1. 💻 VisualG  (Pseudolinguagem de interpretação e execução de algoritmos) (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/periodo-01/2021-08-14)
 
 ### 1.1 Conceito inicial, Variáveis e tipos primitivos 
-- [ ] Lógica e suas estruturas de dados
-- [ ]  Variáveis e tipos de dados 
-- [ ]  Leitura de Variáveis
-- [ ]  Atribuição de valores e operações com variáveis
-- [ ]  Mensagens de retorno utilizando variáveis
-- [ ]  Exercícios aplicados com variáveis em algoritmos
+- [X] Lógica e suas estruturas de dados
+- [X]  Variáveis e tipos de dados 
+- [X]  Leitura de Variáveis
+- [X]  Atribuição de valores e operações com variáveis
+- [X]  Mensagens de retorno utilizando variáveis
+- [X]  Exercícios aplicados com variáveis em algoritmos
 
 ### 1.2 Estruturas de Controle 
 - [ ]  Algoritmos de escolha (Uso do escolha e seus casos)
