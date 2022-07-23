@@ -32,31 +32,31 @@ Olá a todos 😄, neste repositório encontraremos todo material referente as n
 - [X]  Exercícios aplicados a estrutura de repetição
 
 ### 1.4 Vetores e Matrizes 
-- [ ]  Conceito de Vetores e Matrizes
-- [ ]  Armazenamento, posição e leitura de dados de vetores e matrizes
-- [ ]  Aplicação de uso de vetores e matrizes
-- [ ]  Exercícios aplicados a Vetores e Matrizes
+- [X]  Conceito de Vetores e Matrizes
+- [X]  Armazenamento, posição e leitura de dados de vetores e matrizes
+- [X]  Aplicação de uso de vetores e matrizes
+- [X]  Exercícios aplicados a Vetores e Matrizes
 
 ### 2. 💻 Javascript (Linguagem real de interpretação e execução de algoritmos)
     
 ### 2.1 Variáveis, tipos primitivos e estruturas de Controle
-- [ ]  Variáveis e tipos de dados 
-- [ ]  Leitura de Variáveis
-- [ ]  Atribuição de valores e operações com variáveis
-- [ ]  Mensagens de retorno utilizando variáveis
-- [ ]  Algoritmos de escolha (Uso do switch case)
-- [ ]  Algoritmos condicionais (Uso do if, else if e else com operadores lógicos)
-- [ ]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
+- [X]  Variáveis e tipos de dados 
+- [X]  Leitura de Variáveis
+- [X]  Atribuição de valores e operações com variáveis
+- [X]  Mensagens de retorno utilizando variáveis
+- [X]  Algoritmos de escolha (Uso do switch case)
+- [X]  Algoritmos condicionais (Uso do if, else if e else com operadores lógicos)
+- [X]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
 
 ### 2.2 Estruturas de Repetição e Vetores e Matrizes (Arrays)
-- [ ] Conceito de estutura de repetição
-- [ ]  Algoritmos de repetição (Uso do for)
-- [ ]  Algoritmos de repetição (Uso do while e do while)
-- [ ]  Modificadores de estado
-- [ ]  Exercícios aplicados a estrutura de repetição
-- [ ]  Armazenamento, posição e leitura de dados de arrays
-- [ ]  Aplicação de uso de arrays
-- [ ]  Exercícios aplicados a arrays
+- [X] Conceito de estutura de repetição
+- [X]  Algoritmos de repetição (Uso do for)
+- [X]  Algoritmos de repetição (Uso do while e do while)
+- [X]  Modificadores de estado
+- [X]  Exercícios aplicados a estrutura de repetição
+- [X]  Armazenamento, posição e leitura de dados de arrays
+- [X]  Aplicação de uso de arrays
+- [X]  Exercícios aplicados a arrays
 
 *A medida que nossos encontros forem acontecendo, será atualizado em cada item com o material correspondente.*
 
