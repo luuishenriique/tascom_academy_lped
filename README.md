@@ -9,7 +9,7 @@ Olá a todos 😄, neste repositório encontraremos todo material referente as n
 ---
 ## 🤔 O que vamos ver? 
 
-### 1. 💻 VisualG  (Pseudolinguagem de interpretação e execução de algoritmos) (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/periodo-01/2021-08-14)
+### 1. 💻 VisualG  (Pseudolinguagem de interpretação e execução de algoritmos)
 
 ### 1.1 Conceito inicial, Variáveis e tipos primitivos 
 - [ ] Lógica e suas estruturas de dados
@@ -19,12 +19,12 @@ Olá a todos 😄, neste repositório encontraremos todo material referente as n
 - [ ]  Mensagens de retorno utilizando variáveis
 - [ ]  Exercícios aplicados com variáveis em algoritmos
 
-### 1.2 Estruturas de Controle (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/periodo-01/2021-08-21)
+### 1.2 Estruturas de Controle
 - [ ]  Algoritmos de escolha (Uso do escolha e seus casos)
 - [ ]  Algoritmos condicionais (Uso do se, senao se e operadores lógicos)
 - [ ]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
 
-### 1.3 Estruturas de Repetição (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/periodo-01/2021-08-28)
+### 1.3 Estruturas de Repetição
 - [ ] Conceito de estutura de repetição
 - [ ]  Algoritmos de repetição (Uso do para... faca)
 - [ ]  Algoritmos de repetição (Uso do enquanto... faca)
