@@ -12,51 +12,51 @@ Olá a todos 😄, neste repositório encontraremos todo material referente as n
 ### 1. 💻 VisualG  (Pseudolinguagem de interpretação e execução de algoritmos) (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/periodo-01/2021-08-14)
 
 ### 1.1 Conceito inicial, Variáveis e tipos primitivos 
-- [X] Lógica e suas estruturas de dados
-- [X]  Variáveis e tipos de dados 
-- [X]  Leitura de Variáveis
-- [X]  Atribuição de valores e operações com variáveis
-- [X]  Mensagens de retorno utilizando variáveis
-- [X]  Exercícios aplicados com variáveis em algoritmos
+- [ ] Lógica e suas estruturas de dados
+- [ ]  Variáveis e tipos de dados 
+- [ ]  Leitura de Variáveis
+- [ ]  Atribuição de valores e operações com variáveis
+- [ ]  Mensagens de retorno utilizando variáveis
+- [ ]  Exercícios aplicados com variáveis em algoritmos
 
 ### 1.2 Estruturas de Controle (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/periodo-01/2021-08-21)
-- [X]  Algoritmos de escolha (Uso do escolha e seus casos)
-- [X]  Algoritmos condicionais (Uso do se, senao se e operadores lógicos)
-- [X]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
+- [ ]  Algoritmos de escolha (Uso do escolha e seus casos)
+- [ ]  Algoritmos condicionais (Uso do se, senao se e operadores lógicos)
+- [ ]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
 
 ### 1.3 Estruturas de Repetição (https://github.com/luuishenriique/tascom_academy_lped/tree/main/aulas/periodo-01/2021-08-28)
-- [X] Conceito de estutura de repetição
-- [X]  Algoritmos de repetição (Uso do para... faca)
-- [X]  Algoritmos de repetição (Uso do enquanto... faca)
-- [X]  Modificadores de estado
-- [X]  Exercícios aplicados a estrutura de repetição
+- [ ] Conceito de estutura de repetição
+- [ ]  Algoritmos de repetição (Uso do para... faca)
+- [ ]  Algoritmos de repetição (Uso do enquanto... faca)
+- [ ]  Modificadores de estado
+- [ ]  Exercícios aplicados a estrutura de repetição
 
 ### 1.4 Vetores e Matrizes 
-- [X]  Conceito de Vetores e Matrizes
-- [X]  Armazenamento, posição e leitura de dados de vetores e matrizes
-- [X]  Aplicação de uso de vetores e matrizes
-- [X]  Exercícios aplicados a Vetores e Matrizes
+- [ ]  Conceito de Vetores e Matrizes
+- [ ]  Armazenamento, posição e leitura de dados de vetores e matrizes
+- [ ]  Aplicação de uso de vetores e matrizes
+- [ ]  Exercícios aplicados a Vetores e Matrizes
 
 ### 2. 💻 Javascript (Linguagem real de interpretação e execução de algoritmos)
     
 ### 2.1 Variáveis, tipos primitivos e estruturas de Controle
-- [X]  Variáveis e tipos de dados 
-- [X]  Leitura de Variáveis
-- [X]  Atribuição de valores e operações com variáveis
-- [X]  Mensagens de retorno utilizando variáveis
-- [X]  Algoritmos de escolha (Uso do switch case)
-- [X]  Algoritmos condicionais (Uso do if, else if e else com operadores lógicos)
-- [X]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
+- [ ]  Variáveis e tipos de dados 
+- [ ]  Leitura de Variáveis
+- [ ]  Atribuição de valores e operações com variáveis
+- [ ]  Mensagens de retorno utilizando variáveis
+- [ ]  Algoritmos de escolha (Uso do switch case)
+- [ ]  Algoritmos condicionais (Uso do if, else if e else com operadores lógicos)
+- [ ]  Exercícios aplicados com estruturas de controle e estruturas condicionais em algoritmos
 
 ### 2.2 Estruturas de Repetição e Vetores e Matrizes (Arrays)
-- [X] Conceito de estutura de repetição
-- [X]  Algoritmos de repetição (Uso do for)
-- [X]  Algoritmos de repetição (Uso do while e do while)
-- [X]  Modificadores de estado
-- [X]  Exercícios aplicados a estrutura de repetição
-- [X]  Armazenamento, posição e leitura de dados de arrays
-- [X]  Aplicação de uso de arrays
-- [X]  Exercícios aplicados a arrays
+- [ ] Conceito de estutura de repetição
+- [ ]  Algoritmos de repetição (Uso do for)
+- [ ]  Algoritmos de repetição (Uso do while e do while)
+- [ ]  Modificadores de estado
+- [ ]  Exercícios aplicados a estrutura de repetição
+- [ ]  Armazenamento, posição e leitura de dados de arrays
+- [ ]  Aplicação de uso de arrays
+- [ ]  Exercícios aplicados a arrays
 
 *A medida que nossos encontros forem acontecendo, será atualizado em cada item com o material correspondente.*
 
