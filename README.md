@@ -1,4 +1,4 @@
-<div align="center"><h1> 🖱️  Lógica de Programação e Estrutura de dados (LPED) 🖥️</> </div>
+<div align="center"><h1> 🖱️  Algoritmos, Lógica de Programação e Estrutura de dados (ALPED) 🖥️</> </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
@@ -9,7 +9,7 @@ Olá a todos 😄, neste repositório encontraremos todo material referente as n
 ---
 ## 🤔 O que vamos ver? 
 
-### 1. 💻 VisualG  (Pseudolinguagem de interpretação e execução de algoritmos)
+### 1. 💻 Algoritmos e VisualG  (Pseudolinguagem de interpretação e execução de algoritmos)
 
 ### 1.1 Conceito inicial, Variáveis e tipos primitivos 
 - [ ] Lógica e suas estruturas de dados
